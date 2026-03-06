@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Harshit
 
-Junior Python Backend Developer focused on building **production-inspired backend systems**
+Python Backend Developer focused on building **production-inspired backend systems**
 with clear authentication flows, state management, and async architectures.
 
 I enjoy working close to the **core backend layer**, authentication, onboarding,
