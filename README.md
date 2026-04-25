@@ -1,77 +1,59 @@
-## 👋 Hi, I’m Harshit
+<div align="center">
+  <h1>Hi, I'm Harshit 👋</h1>
+  <p><b>Backend & AI Engineer | Systems Reliability | First Principles </b></p>
 
-Python Backend Developer focused on building **production-inspired backend systems**
-with clear authentication flows, state management, and async architectures.
-
-I enjoy working close to the **core backend layer**, authentication, onboarding,
-account states, and service orchestration, rather than UI-heavy applications.
-
----
-
-## 🧠 What I focus on
-
-- Designing **state-driven authentication & onboarding flows**
-- Building **async APIs** with FastAPI
-- Writing **maintainable backend architecture**
-- Thinking in terms of **flows, guards, and contracts**, not just endpoints
-- Learning how real-world systems handle auth, abuse prevention, and account lifecycle
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Backend**
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7-orange?logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.x-red?logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?logo=pydantic&logoColor=white)
-
-
-**Infrastructure & Tooling**
-![Docker](https://img.shields.io/badge/Docker-24-blue?logo=docker&logoColor=white)
-![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-Orchestration-blue?logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-Testing-blue?logo=pytest&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-Migrations-black)
-
+<p align="center">
+  <font size="4">
+    <i>"I build systems that 'Scale' and respect 'Consistency and Reliability'. I’m a firm believer that if you can't explain the fundamental bottleneck of your architecture without mentioning a library name, you don't actually understand the system."</i>
+  </font>
+</p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Architectural Work
 
-### 🔐 finguard-backend (FastAPI, Async, PostgreSQL)
+#### 📂 [AI-Driven File Orchestrator](https://github.com/harshitdevio/AI-Distributed-File-Orchestrator)
+> **Distributed Systems | NLP Pipelines**
+> A multi-service system using **Go** for concurrent I/O and **Python** for neural inference. Focuses on confidence-based decision making and atomic file operations.
 
-A **production-inspired backend architecture** using fintech-style
-signup and login flows as a case study.
+#### 💳 [Payment Orchestration Service](https://github.com/harshitdevio/async-payments-service)
+> **Fintech | Reliability**
+> An idempotent backend handling webhooks and strict payment state transitions. Designed to survive partial failures and ensure eventual consistency.
 
-**What it demonstrates:**
-- OTP-based authentication
-- State-driven onboarding (LIMITED → FULL accounts)
-- Secure credential hashing
-- Token issuance & scoped access
-- Rate limiting with Redis
-- Modular, async-first backend structure
+#### 🔐 [User Authentication & Onboarding Service](https://github.com/harshitdevio/finguard-onboarding-service)
+> **Security | State-Driven Logic**
+> A high-integrity onboarding system modeling real-world fintech flows. Features secure JWT + OTP authentication, Redis-backed rate limiting, and explicit state guards to prevent invalid user transitions.
+---
+## 🛠 What I Do
+* **AI Orchestration:** Building specialized inference engines using NLI and Transformers for utility-first applications.
+* **Simplifying Complexity:** I enjoy breaking down complex architectural patterns into analogies that actually make sense.
+* **Backend Reliability:** Developing microservices with a focus on error handling, idempotent processing, and resilient async workflows.
+* **State-Aware Logic:** Implementing structured state machines to ensure data integrity in multi-step user flows and payment integrations.
 
-> KYC and transaction systems are intentionally stubbed to keep the focus on authentication, state management, and backend design.
-
-👉 Pinned repository: [finguard-backend](https://github.com/harshitdevio/finguard-backend)
-
-
+## 💻 Technical Stack
+* **Languages:** Golang, Python (FastAPI, Django, Flask)
+* **Databases & Caching:** PostgreSQL, MongoDB, Redis
+* **Cloud & DevOps:** AWS, Docker, GitHub Actions (CI/CD), Linux
+* **Messaging & Systems:** Webhooks, Event-Driven Flows, REST API Design
+* **Data & ML:** PyTorch, Hugging Face Transformers (BART), NumPy, Pandas
 ---
 
-## 📌 How I think about backend systems
+### 💬 The Realist Take
+> *"Most 'Software Problems' are actually data engineering problems in a trench coat. I focus on building the trench coat properly."*
 
-- APIs should be **state-aware**, not just request/response handlers  
-- Authentication is a **flow**, not a single endpoint  
-- Business rules should live **outside framework glue**
-- Code should be readable by another engineer without explanation
-
----
-
-## 📫 Let’s connect
-
-- X (Twitter): https://x.com/TheRookieTechie
-
-
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/TheRookieTechie"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://harshitdevio.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+</div>
+"""
 
