@@ -47,8 +47,8 @@
 * **Data & ML:** PyTorch, Hugging Face Transformers (BART), NumPy, Pandas
 ---
 
-### 💬 The Realist Take
-> *"Most 'Software Problems' are actually data engineering problems in a trench coat. I focus on building the trench coat properly."*
+### 💬 A Realist Take
+> *"Most 'Software Problems' are actually 'Data Engineering' problems in a trench coat. I focus on building the trench coat properly."*
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
