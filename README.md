@@ -55,5 +55,5 @@
   <a href="https://x.com/TheRookieTechie"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://harshitdevio.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </div>
-"""
+
 
