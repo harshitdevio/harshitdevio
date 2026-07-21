@@ -20,7 +20,7 @@ C. What's the modern evolution of C?
 
 Rust :)
 
-(which is why my stack is Go, Rust, and occasionally Python.)
+(which is why my stack is Go & Python while occasionally exploring Rust.)
 
 Linus said, 'Talk is cheap.' So here is my code... I mean projects.
 
@@ -41,6 +41,5 @@ Linus said, 'Talk is cheap.' So here is my code... I mean projects.
 
 <div align="center">
   <a href="https://x.com/hashedcode"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://harshitdevio.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://hashnode.com/@harshitdevio"><img src="https://img.shields.io/badge/Blogs-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
 </div>
-
