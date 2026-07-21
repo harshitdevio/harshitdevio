@@ -26,17 +26,16 @@ Linus said, 'Talk is cheap.' So here is my code... I mean projects.
 
 ---
 
-#### 📂 [AI-Driven File Orchestrator](https://github.com/harshitdevio/AI-Distributed-File-Orchestrator)
-> **Distributed Systems | NLP Pipelines**
-> A multi-service system using **Go** for concurrent I/O and **Python** for neural inference. Focuses on confidence-based decision making and atomic file operations.
+#### 📂 [Ark: AI-Driven File Orchestrator](https://github.com/harshitdevio/AI-Distributed-File-Orchestrator)
+> A decoupled file orchestration system built around event-driven inter-process communication and explicit service boundaries. Separates lightweight directory management from heavy ML inference over a message broker to demonstrate fault isolation, worker pooling, and scalable service design.
 
-#### 💳 [Payment Orchestration Service](https://github.com/harshitdevio/async-payments-service)
-> **Fintech | Reliability**
-> An idempotent backend handling webhooks and strict payment state transitions. Designed to survive partial failures and ensure eventual consistency.
+#### 🔐 [FinGuard](https://github.com/harshitdevio/finguard-onboarding-service)
+> A ledger-backed financial system built for strict transactional correctness, auditability, and race-condition resistance under concurrent execution. Implements double-entry accounting, pessimistic locking, and distributed idempotency controls to guarantee zero balance corruption.
 
-#### 🔐 [User Authentication & Onboarding Service](https://github.com/harshitdevio/finguard-onboarding-service)
-> **Security | State-Driven Logic**
-> A high-integrity onboarding system modeling real-world fintech flows. Features secure JWT + OTP authentication, Redis-backed rate limiting, and explicit state guards to prevent invalid user transitions.
+#### 💳 [HashPay](https://github.com/harshitdevio/async-payments-service)
+> A payment backend engineered around state transition invariants and asynchronous webhook reconciliation. Features a strict layered architecture to decouple domain business logic from third-party payment APIs, database persistence, and external HTTP contracts.
+
+
 
 ---
 
